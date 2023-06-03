@@ -75,7 +75,6 @@ a {
   gap: 0.7rem;
 }
 
-
 .heading {
   font-weight: 700;
   font-size: 2rem;
@@ -194,9 +193,21 @@ a {
   border-radius: 2rem;
   align-self: end;
 }
-.continue-btn:hover, .continue-btn:focus-visible {
-    background: var(--gradient1);
-  }
+.continue-btn:hover,
+.continue-btn:focus-visible {
+  background: var(--gradient1);
+}
+
+.attribution {
+  font-size: 1.6rem;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 @media screen and (max-width: 40em) {
   body {
     align-items: start;
