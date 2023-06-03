@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Mr-NotSoCreative/results-summary-component-main)
+- Live Site URL: [live site URL](https://mr-notsocreative.github.io/results-summary-component-main/)
 
 ## My process
 
@@ -46,6 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+- Frontend Mentor - [Mr-NotSoCreative](https://www.frontendmentor.io/profile/Mr-NotSoCreative)
 
